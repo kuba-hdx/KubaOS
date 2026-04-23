@@ -1,0 +1,15 @@
+# Nothing source-related should ever land here
+/src
+/src-tauri
+/app
+/components
+/lib
+/node_modules
+*.ts
+*.tsx
+*.rs
+*.toml
+*.lock
+package.json
+package-lock.json
+.env*
