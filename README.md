@@ -41,11 +41,9 @@ update checks, and integrations you explicitly configure.
 
 ## What's new in 0.1.3
 
-- Fixed the titlebar window controls (minimize, maximize, close).
+- Fixed the titlebar window controls (minimize, maximize, close.. before it was bugged)
 - Fixed the "Create organization" RLS error.
-- Forum now shows `@handle` instead of email, adds a **Message** button on every post,
-  and gates post deletion to the site developer only.
-- New **Site Developer** badge next to `@kuba` across the forum and team views.
+- Forum now shows `@handle` instead of email, adds a **Message** button on every post.
 - Site-admin access to list and join every team, gated server-side.
 - Working **Check for updates** (settings) against a signed update manifest.
 
