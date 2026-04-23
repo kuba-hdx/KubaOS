@@ -8,6 +8,7 @@ A private, offline desktop cockpit for a solo founder — interviews, pains, fea
 build logs, metrics, launch tasks, content calendar, and focus mode, all in one place.
 
 [Download KubaOS 0.1.3 (Windows MSI)](https://github.com/kuba-hdx/KubaOS/releases/latest) · [Showcase on kuba-hdx.dev](https://kuba-hdx.dev/KubaOS) ·
+
 [Virustotal Scan](https://www.virustotal.com/gui/file/5e7da9a1b0d788bf325124e179332f621b34de38f3ad696bd47d9cc8a18d2d9b) [1.12] ·
 [Virustotal Scan](https://www.virustotal.com/gui/file/77d6e29ce5d45969ca3c9a356ccfdb2d1d8fcd6276cbbd3f7aff318e0ef23544) [1.13] 
 
