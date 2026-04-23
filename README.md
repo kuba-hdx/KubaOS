@@ -7,8 +7,15 @@
 A private, offline desktop cockpit for a solo founder — interviews, pains, features,
 build logs, metrics, launch tasks, content calendar, and focus mode, all in one place.
 
-[Download KubaOS 0.1.2 (Windows MSI)](https://github.com/kuba-hdx/KubaOS/releases/latest) · [Showcase on kuba-hdx.dev](https://kuba-hdx.dev/KubaOS) ·
+[Download KubaOS 0.1.3 (Windows MSI)](https://github.com/kuba-hdx/KubaOS/releases/latest) · [Showcase on kuba-hdx.dev](https://kuba-hdx.dev/KubaOS) ·
 [Virustotal Scan](https://www.virustotal.com/gui/file/5e7da9a1b0d788bf325124e179332f621b34de38f3ad696bd47d9cc8a18d2d9b)
+
+<br />
+
+<img src="https://raw.githubusercontent.com/kuba-hdx/KubaOS/main/assets/kubaos-hero.png" alt="KubaOS — onboarding · local · private · yours" width="880" />
+
+<sub><em>Free · private · encrypted at rest · all features included — no tiers.</em></sub>
+
 </div>
 
 ---
@@ -29,7 +36,18 @@ update checks, and integrations you explicitly configure.
 - **Content calendar** — plan posts, videos, and shipping moments alongside the build.
 - **Today / focus mode** — a zero-distraction view of the one thing that matters today.
 - **Forum** — private async thread stream for side conversations with collaborators.
+- **Teams & messaging** — small-group workspaces and direct messages for the few people you actually talk to.
 - **Auto-updates** — every new release installs silently in the background.
+
+## What's new in 0.1.3
+
+- Fixed the titlebar window controls (minimize, maximize, close).
+- Fixed the "Create organization" RLS error.
+- Forum now shows `@handle` instead of email, adds a **Message** button on every post,
+  and gates post deletion to the site developer only.
+- New **Site Developer** badge next to `@kuba` across the forum and team views.
+- Site-admin access to list and join every team, gated server-side.
+- Working **Check for updates** (settings) against a signed update manifest.
 
 ## Stack
 
